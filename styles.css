@@ -226,16 +226,15 @@ p a {
 
 @media screen and (max-width: 585px) {
     body {
-        width: 585px;
-        min-width: 200px;
-        
+        min-width: 90%;
+        width: 100%;
         font-size: 30px;
         
     }
 
     .container{
         width: 100%;
-        min-width: 200px;
+        min-width: 90%;
     }
 
     .hero {
